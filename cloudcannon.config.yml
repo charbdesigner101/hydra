@@ -1,0 +1,87 @@
+paths:
+  data: data
+  collections: content
+  includes: layouts
+  layouts: layouts
+  static: static
+  uploads: static/uploads
+  source: ''
+  archetypes: archetypes
+  assets: assets
+  content: content
+  pages: content
+  publish: public
+  config: ''
+collections_config:
+  pages:
+    path: content
+    output: true
+    filter: strict
+    parse_branch_index: true
+    icon: notes
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  posts:
+    path: content/posts
+    output: true
+    icon: notes
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  data:
+    path: data
+    output: false
+    icon: notes
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+_inputs:
+  map:
+    type: text
+    comment: Update the map location and display settings.
+    cascade: true
+  latitude:
+    type: text
+    comment: Coordinates for the center marker on the map.
+    cascade: true
+  longitude:
+    type: text
+    comment: Coordinates for the center marker on the map.
+    cascade: true
+  zoom:
+    type: text
+    comment: The zoom level for the map.
+    cascade: true
+  pricing_table:
+    type: text
+    comment: Update the information in the pricing tables.
+    cascade: true
+  highlight:
+    type: text
+    comment: Emphasis the text
+    cascade: true
+  color:
+    type: color
+    comment: The background colour used in the plan name and call to action.
+    cascade: true
+  new_window:
+    type: text
+    comment: Open link in new window
+    cascade: true
+  type:
+    type: text
+    options:
+      hidden: true
+    cascade: true
+  full_width:
+    type: text
+    options:
+      hidden: true
+    cascade: true
+_select_data: {}
+_structures: {}
+_editables: {}
+data_config:
+  staff_members: true
+timezone: Etc/UTC
