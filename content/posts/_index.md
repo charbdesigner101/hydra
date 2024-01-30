@@ -1,7 +1,7 @@
 ---
 title: Blog
 description: Keep up with the latest news.
-url: /blog/
+url: /URL/
 
 menu:
   main:
