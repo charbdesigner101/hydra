@@ -1,18 +1,18 @@
 ---
 title: Pricing
-heading: Find the perfect plan for your business
-description: All plans include our award winning sales optimization solution to track your sales in real time.
+heading: Find the perfect plan for your business..
+description: >-
+  All plans include our award winning sales optimization solution to track your
+  sales in real time.
 type: pricing
-
 menu:
   main:
     weight: 1
   footer:
     weight: 1
-
 pricing_table:
   - name: Basic
-    color: "#8e8e8e"
+    color: '#8e8e8e'
     features:
       - text: $25 per month
         highlight: true
@@ -30,7 +30,7 @@ pricing_table:
       link: http://mysite.com?plan=basic
       text: Get started
   - name: Pro
-    color: "#4a4a4a"
+    color: '#4a4a4a'
     features:
       - text: $99 per month
         highlight: true
@@ -48,7 +48,7 @@ pricing_table:
       link: http://mysite.com?plan=pro
       text: Get started
   - name: Professional
-    color: "#000000"
+    color: '#000000'
     features:
       - text: $299 per month
         highlight: true
@@ -74,7 +74,6 @@ faq:
     answer: Yes, send us a message and we'll set you up on our nonprofit pricing.
   - question: Questions?
     answer: Contact us for any further questions at <a href="#">john@business.com</a>.
-
 _enabled_editors:
   - visual
   - content
