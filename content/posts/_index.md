@@ -1,6 +1,6 @@
 ---
 title: Blog
-description: Keep up with the latest news.
+description: Charlotte's breaking news
 url: /URL/
 
 menu:
