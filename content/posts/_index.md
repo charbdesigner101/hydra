@@ -1,6 +1,8 @@
 ---
 title: Blog
-description: Charlotte's breaking news hello
+description: |+
+  Charlotte's breaking news hello there..
+
 url: /URL/
 menu:
   main:
