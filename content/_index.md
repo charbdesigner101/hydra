@@ -1,5 +1,5 @@
 ---
-title: Sales CRM
+title: CRM
 description: Track and optimize your sales team in real time...
 type: bannerless
 _enabled_editors:
