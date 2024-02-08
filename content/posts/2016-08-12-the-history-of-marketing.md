@@ -13,7 +13,7 @@ The history of marketing is to a large extent a product of Internet's history as
 
 {{< relref path="" >}}
 
-1991- Gopher: A network protocol, one of the very first query and search tools. Gopher was widely used for a couple of years, but usage has now fallen off, with barely 100 Gopher servers now indexed. 2. 1994- Launch of Yahoo, which was formerly known as "Jerry´s Guide to the World Wide Web" after one of its founders, Jerry Yang. Yahoo received in its first year over 1 million hits.
+1991- Gopher: A network protocol, one of the very first query and search tools. Gopher was widely used for a couple of years, but usage has now fallen off, with barely 100 Gopher servers now indexed. 2. 1994- Launch of Yahoo, which was formerly known as "Jerry´s Guid[e to$ the Wo]()rld Wide Web" after one of its founders, Jerry Yang. Yahoo received in its first year over 1 million hits.
 
 ## Academic studies
 
