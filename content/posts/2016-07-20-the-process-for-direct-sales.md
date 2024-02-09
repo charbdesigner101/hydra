@@ -15,7 +15,7 @@ Direct selling is the marketing and selling of products directly to consumers aw
 
 A textbook definition is: "The direct personal presentation, demonstration, and sale of products and services to consumers, usually in their homes or at their jobs."
 
-## How effective is direct selling?
+## How effective is direct selling? Learn more down below
 
 Industry representative, the World Federation of Direct Selling Associations (WFDSA), reports that its 59 regional member associations accounted for more than US$183 billion in retail sales in 2014, through the activities of more than 62 million independent sales representatives. The United States Direct Selling Association (DSA) reported that in 2000, 55% of adult Americans had at some time purchased goods or services from a direct selling representative and 20% reported that they were currently(6%) or had been in the past(14%) a direct selling representative.
 
