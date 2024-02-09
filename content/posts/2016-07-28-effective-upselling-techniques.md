@@ -4,7 +4,7 @@ title: Effective upselling techniques
 categories:
   - sales
   - tips
-author_staff_member: betty who is a little petty
+author_staff_member: betty who is a little petty..
 ---
 In practice, large businesses usually combine upselling and cross-selling to maximize profit. In doing so, an organization must ensure that its relationship with the client is not disrupted.
 
