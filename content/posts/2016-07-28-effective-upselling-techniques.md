@@ -1,6 +1,6 @@
 ---
-date: 2016-07-28
-title: Effective upselling techniques
+date: 2016-07-28T00:00:00Z
+title: Effective upselling techniques..
 categories:
   - sales
   - tips
