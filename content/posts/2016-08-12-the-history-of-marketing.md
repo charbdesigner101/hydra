@@ -1,6 +1,6 @@
 ---
 date: 2016-08-12
-title: The history of marketing
+title: This is the history of marketing
 categories:
   - marketing
 author_staff_member: robin
