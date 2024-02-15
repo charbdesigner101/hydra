@@ -17,7 +17,7 @@ A textbook definition is: "The direct personal presentation, demonstration, and 
 
 ## How effective is direct selling? Read the information down below to learn more about effective direct selling.
  
-Industry representative, the World Federation of Direct Selling Associations (WFDSA), reports that its 59 regional member associations accounted for more than US$183 billion in retail sales in 2014, through the activities of more than 62 million independent sales representatives. The United States Direct Selling Association (DSA) reported that in 2000, 55% of adult Americans had at some time purchased goods or services from a direct selling representative and 20% reported that they were currently(6%) or had been in the past(14%) a direct selling representative.
+I
 
 ![Office](https://source.unsplash.com/random/1500x1146)
 
